@@ -1,13 +1,14 @@
 # Predicting-Osteoporosis-Risk
 
-Problem Statement:
+# Problem Statement:
 Osteoporosis, a condition characterized by weakened bones and an increased risk of fractures, poses significant health challenges, especially among aging populations. Early detection and prevention are critical to reducing the incidence of osteoporosis-related fractures, improving patient outcomes, and optimizing healthcare resources.
 
 The healthcare provider seeks to leverage machine learning to accurately predict the risk of osteoporosis in patients based on their characteristics and medical history. This involves understanding the complex relationships between various factors, such as age, hormonal changes, nutrition, lifestyle habits, and medical conditions, and how they contribute to osteoporosis risk.
 
 This project aims to provide actionable insights into osteoporosis risk factors and enable the healthcare provider to enhance patient care through early detection and tailored interventions.
 
-About the dataset
+# About the dataset
+
 Id: This is likely a unique identifier for each individual in your dataset.
 
 Age: Age of the individual, which is a significant factor in osteoporosis risk as bone density tends to decrease with age.
